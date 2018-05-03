@@ -59,6 +59,7 @@
       <version>${lombok.version}</version>
     </dependency>
 
+    <!--目前springboot 2.0 无法支持-->
     <dependency>
       <groupId>org.activiti</groupId>
       <artifactId>activiti-spring-boot-starter-basic</artifactId>
